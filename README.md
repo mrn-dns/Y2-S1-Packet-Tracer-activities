@@ -1,0 +1,1 @@
+This repository contains all the packet tracer configuration files. It is proof of my ability to configure networks and that I have an understanding of how servers, routers and other protocols function.
